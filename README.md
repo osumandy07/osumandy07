@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JavaScript and Bootstrap with Python to follow shortly
 - 💞️ I’m looking to collaborate on Front-End Development Projects
-- 📫 I can be reached at osu_mandy07@yahoo.com
+- 📫 
 
 <!---
 osumandy07/osumandy07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
